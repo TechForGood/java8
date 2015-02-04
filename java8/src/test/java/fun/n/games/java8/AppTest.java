@@ -7,6 +7,9 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
+
+// We need a better way to checkin and all. 
+
 public class AppTest extends TestCase
 {
     /**
