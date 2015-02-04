@@ -9,6 +9,8 @@ import junit.framework.TestSuite;
  */
 
 // We need a better way to checkin and all. 
+// Ok. Let's do this once more. How many stages are there? 3 or 2. 
+// And what about this? 
 
 public class AppTest extends TestCase
 {
