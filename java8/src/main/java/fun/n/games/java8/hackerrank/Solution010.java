@@ -11,6 +11,7 @@ public class Solution010 {
 		double d = sc.nextDouble();
 		String s = sc.nextLine();
 		s = sc.nextLine();
+
 		// Just printing out.
 		System.out.println("String: " + s);
 		System.out.println("Double: " + d);
